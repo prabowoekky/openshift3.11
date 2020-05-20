@@ -1,0 +1,12 @@
+#header-logo {
+   background-image: url("/etc/origin/master/stylesheet/images/resized_demo_logo.png");
+   width: 190px;
+   height: 20px;
+}
+
+#openshift-logo.navbar-brand{
+   width: 193px;
+   height: 42px;
+   padding-left: 20px;
+   padding-top: 10px;
+}
